@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jombotey" target="blank"><img src="https://img.shields.io/twitter/follow/jombotey?logo=twitter&style=for-the-badge" alt="jombotey" /></a> </p>
 
-- 🔭 I’m currently working on **Oasis incorporated**
+- 🔭 I’m currently working on **Safe Wallet**
 
 - 🌱 I’m currently learning **React, javascript and Tailwind css,**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amekpoagbedaniel@gmail.com**
 
-- ⚡ Fun fact **I think programming is fun**
+- ⚡ Fun fact **javascript is kinda complicated and  fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
