@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jombotey" target="blank"><img src="https://img.shields.io/twitter/follow/jombotey?logo=twitter&style=for-the-badge" alt="jombotey" /></a> </p>
 
-- 🔭 I’m currently working on **Safe Wallet**
+- 🔭 I’m currently working on **CrediPay**
 
 - 🌱 I’m currently learning **React, javascript and Tailwind css,**
 
