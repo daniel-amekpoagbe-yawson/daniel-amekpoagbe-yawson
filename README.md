@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Amekpoagbe</h1>
+<!-- <h1 align="center">Hi 👋, I'm Daniel Amekpoagbe</h1>
 <h3 align="center">Mid-Level Frontend Developer | Tema, Ghana 🇬🇭</h3>
 
 <p align="center">
@@ -61,4 +61,42 @@ I'm a passionate mid-level frontend developer specializing in building modern, r
 
 <p align="center">
   <i>Open to collaboration and interesting frontend opportunities!</i>
+</p> -->
+
+
+
+<h1 align="center">Hi 👋, I'm Daniel Amekpoagbe</h1>
+<h3 align="center">Mid-Level Frontend Developer | Tema, Ghana 🇬🇭</h3>
+
+<p align="center">
+  Building modern web experiences with React, Next.js, and TypeScript
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,graphql,supabase,firebase,git" />
+</p>
+
+<br />
+
+**🔭 Currently:** Working on Knowly  
+**🌱 Learning:** TanStack Router, TypeScript, GraphQL  
+**📫 Email:** amekpoagbedaniel@gmail.com
+
+<br />
+
+<p align="center">
+  <a href="https://twitter.com/jombotey" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/amekpoagbe-daniel-a881712b5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100073182827583" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/swasty__jay" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram"/>
+  </a>
 </p>
