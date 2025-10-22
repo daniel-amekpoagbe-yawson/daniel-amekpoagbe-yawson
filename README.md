@@ -35,20 +35,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats & Activity</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-amekpoagbe-yawson&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-amekpoagbe-yawson&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-amekpoagbe-yawson&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel-amekpoagbe-yawson&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
----
-
-<p align="center">✨ *Building cool things with React & Next.js, one project at a time.*</p>
