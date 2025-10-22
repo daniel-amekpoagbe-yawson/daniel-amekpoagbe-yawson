@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Amekpoagbe</h1>
-<h3 align="center">Frontend Developer from Tema, Ghana 🇬🇭</h3>
+<h3 align="center">Mid-Level Frontend Developer | Tema, Ghana 🇬🇭</h3>
 
 <p align="center">
   <a href="https://twitter.com/jombotey" target="_blank">
@@ -7,35 +7,58 @@
   </a>
 </p>
 
----
+<br />
+
+## 👨‍💻 About Me
+
+I'm a passionate mid-level frontend developer specializing in building modern, responsive web applications. With a strong foundation in React and the JavaScript ecosystem, I create intuitive user experiences that blend functionality with clean design.
 
 - 🔭 Currently working on **Knowly**
-- 🌱 Learning **TanStack Router**, **TypeScript**, and **GraphQL**
-- 💬 Ask me about **React, Next.js, Tailwind, Supabase, Firebase**
+- 🌱 Expanding my expertise in **TanStack Router**, **TypeScript**, and **GraphQL**
+- 💼 Experienced with **React, Next.js, Tailwind CSS, Supabase, and Firebase**
+- 💬 Always happy to discuss frontend architecture, performance optimization, and modern web development
 - 📫 Reach me at **amekpoagbedaniel@gmail.com**
-- ⚡ Fun fact: *JavaScript is both chaotic and beautiful.*
+- ⚡ Fun fact: *JavaScript is both chaotic and beautiful*
 
----
+<br />
 
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
-  <a href="https://twitter.com/jombotey" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/amekpoagbe-daniel-a881712b5" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
-  <a href="https://web.facebook.com/profile.php?id=100073182827583" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/></a>
-  <a href="https://instagram.com/swasty__jay" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
-</p>
-
----
-
-<h3 align="center">🧠 Languages & Frameworks I Use</h3>
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,graphql,supabase,firebase,vite,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Core Technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,graphql,vite" alt="Frameworks & Tools" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,git,github" alt="Backend & Version Control" />
 </p>
 
----
+<br />
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-amekpoagbe-yawson&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<br />
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://twitter.com/jombotey" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/amekpoagbe-daniel-a881712b5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100073182827583" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/swasty__jay" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to collaboration and interesting frontend opportunities!</i>
+</p>
