@@ -1,23 +1,20 @@
-# Hi, I'm Daniel Amekpoagbe
+Hey there!
 
-Frontend developer from Tema, Ghana building engaging web experiences with React and modern JavaScript. Currently working on ###Swapskill and continuously exploring new tools and patterns in web development.
+I'm **Daniel**, a frontend developer based in Ghana. I design and build web experiences that feel smooth and work beautifully.
 
-## What I'm up to
+I'm currently working on **Swapskill** and shipping projects built with React, TypeScript, Tailwind, and modern web technologies. If an idea pops into my head, chances are I'll code it and deploy it.
 
-Right now I'm diving into TanStack Router, TypeScript, and GraphQL to level up my backend integration skills. I'm passionate about writing clean, maintainable code and creating interfaces that feel good to use.
+My main tech stack is **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and I'm always learning new tools like TanStack Router and GraphQL to level up my skills.
 
-## Let's talk about
+I've built a bunch of projects, and I'm passionate about clean code, good design, and creating interfaces that users actually enjoy using.
 
-If you want to chat about React, Next.js, Tailwind CSS, Supabase, or Firebase, I'm here for it. I'm always keen to discuss best practices, architecture patterns, or just debug some weird JavaScript behavior together.
+Check out my work and learn more about what I do:
 
-## Tech stack
+- **Portfolio**: https://www.amekpoagbe.com/
+- **LinkedIn**: https://www.linkedin.com/in/amekpoagbe-daniel/
+- **Twitter**: https://twitter.com/jombotey
+- **Email**: amekpoagbedaniel@gmail.com
 
-I work with HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, React, Next.js, GraphQL, Supabase, Firebase, Vite, and Git.
-
-## Get in touch
-
-Email me at amekpoagbedaniel@gmail.com  || Portfolio https://www.amekpoagbe.com/
-
----
-
-*Fun fact: JavaScript is both chaotic and beautiful.*
+Fun Facts:
+* I believe JavaScript is both chaotic and beautiful
+* When I'm not coding, I'm either watching stand-up comedy
