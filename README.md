@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Amekpoagbe
 
-Frontend developer from Tema, Ghana building engaging web experiences with React and modern JavaScript. Currently working on Knowly and continuously exploring new tools and patterns in web development.
+Frontend developer from Tema, Ghana building engaging web experiences with React and modern JavaScript. Currently working on ###Swapskill and continuously exploring new tools and patterns in web development.
 
 ## What I'm up to
 
@@ -16,7 +16,7 @@ I work with HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, React, Next.
 
 ## Get in touch
 
-Email me at amekpoagbedaniel@gmail.com or find me on [Twitter](https://twitter.com/jombotey).
+Email me at amekpoagbedaniel@gmail.com  || Portfolio https://www.amekpoagbe.com/
 
 ---
 
