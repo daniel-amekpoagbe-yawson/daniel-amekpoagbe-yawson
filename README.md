@@ -13,7 +13,7 @@ Check out my work and learn more about what I do:
 - **[Portfolio](https://www.amekpoagbe.com/)** 
 - **[LinkedIn](https://www.linkedin.com/in/amekpoagbe-daniel/)**
 - **[Twitter](https://twitter.com/jombotey)** 
-- **[Email](amekpoagbedaniel@gmail.com)**
+
 
 Fun Facts:
 * I believe JavaScript is both chaotic and beautiful
