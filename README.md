@@ -1,31 +1,23 @@
+# Hi, I'm Daniel Amekpoagbe
 
-<h1 align="center">Hi 👋, I'm Daniel Amekpoagbe</h1>
-<h3 align="center">Frontend Developer from Tema, Ghana 🇬🇭</h3>
+Frontend developer from Tema, Ghana building engaging web experiences with React and modern JavaScript. Currently working on Knowly and continuously exploring new tools and patterns in web development.
 
-<p align="center">
-  <a href="https://twitter.com/jombotey" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/jombotey?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+## What I'm up to
+
+Right now I'm diving into TanStack Router, TypeScript, and GraphQL to level up my backend integration skills. I'm passionate about writing clean, maintainable code and creating interfaces that feel good to use.
+
+## Let's talk about
+
+If you want to chat about React, Next.js, Tailwind CSS, Supabase, or Firebase, I'm here for it. I'm always keen to discuss best practices, architecture patterns, or just debug some weird JavaScript behavior together.
+
+## Tech stack
+
+I work with HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, React, Next.js, GraphQL, Supabase, Firebase, Vite, and Git.
+
+## Get in touch
+
+Email me at amekpoagbedaniel@gmail.com or find me on [Twitter](https://twitter.com/jombotey).
 
 ---
 
-- 🔭 Currently working on **Knowly**
-- 🌱 Learning **TanStack Router**, **TypeScript**, and **GraphQL**
-- 💬 Ask me about **React, Next.js, Tailwind, Supabase, Firebase**
-- 📫 Reach me at **amekpoagbedaniel@gmail.com**
-- ⚡ Fun fact: *JavaScript is both chaotic and beautiful.*
-
----
-
-<h3 align="center">🧠 Languages & Frameworks I Use</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,graphql,supabase,firebase,vite,git" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-amekpoagbe-yawson&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+*Fun fact: JavaScript is both chaotic and beautiful.*
