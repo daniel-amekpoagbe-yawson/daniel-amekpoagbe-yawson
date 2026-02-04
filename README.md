@@ -10,9 +10,9 @@ I've built a bunch of projects, and I'm passionate about clean code, good design
 
 Check out my work and learn more about what I do:
 
-- **[Portfolio](https://www.amekpoagbe.com/)** 
-- **[LinkedIn](https://www.linkedin.com/in/amekpoagbe-daniel/)**
-- **[Twitter](https://twitter.com/jombotey)** 
+- **[Check Out My Portfolio](https://www.amekpoagbe.com/)** 
+- **[LinkedIn Profile](https://www.linkedin.com/in/amekpoagbe-daniel/)**
+- **[Twitter/X Profile](https://twitter.com/jombotey)** 
 
 
 Fun Facts:
