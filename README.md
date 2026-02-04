@@ -1,20 +1,22 @@
-Hey there!
+**Daniel Amekpoagbe**  
+Frontend Engineer • Accra, Ghana
 
-I'm **Daniel**, a frontend developer based in Tema, Ghana. I design and build web experiences that feel smooth and work beautifully.
+I build fast, accessible, and delightful web experiences that solve real problems.
 
-I'm currently working on **Swapskill** and shipping projects built with React, TypeScript, Tailwind, and modern web technologies. If an idea pops into my head, chances are I'll code it and deploy it.
+Right now I’m focused on **Builderr** — a no-code, section-based portfolio builder that lets designers, freelancers, and creators assemble and deploy a professional portfolio in minutes, without writing a single line of code.  
+It removes the biggest friction point most non-technical talent face: “I have great work, but I don’t have a portfolio site.” Builderr gives them a clean, modern, fully customizable site with one-click deployment.
 
-My main tech stack is **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and I'm always learning new tools like TanStack Router and GraphQL to level up my skills.
+### What I bring to the table
+- Deep expertise in **React**, **Next.js**, and **TypeScript** — I ship production-grade, type-safe, performant applications daily.
+- Mastery of **Tailwind CSS** for rapid, consistent, and maintainable styling.
+- Strong foundation in modern frontend architecture (TanStack Router, GraphQL, server components, edge rendering).
+- Obsession with clean code, performance, accessibility, and pixel-perfect interfaces that users actually enjoy.
 
-I've built a bunch of projects, and I'm passionate about clean code, good design, and creating interfaces that users actually enjoy using.
+Whether it’s turning complex product requirements into intuitive UIs or building tools that empower other creators, I enjoy solving problems at the intersection of great design and reliable engineering.
 
-Check out my work and learn more about what I do:
+### Elsewhere on the internet
+- [Portfolio](https://www.amekpoagbe.com/)  
+- [LinkedIn](https://www.linkedin.com/in/amekpoagbe-daniel/)  
+- [X / Twitter](https://twitter.com/jombotey)
 
-- **[Check Out My Portfolio](https://www.amekpoagbe.com/)** 
-- **[LinkedIn Profile](https://www.linkedin.com/in/amekpoagbe-daniel/)**
-- **[Twitter/X Profile](https://twitter.com/jombotey)** 
-
-
-Fun Facts:
-* I believe JavaScript is both chaotic and beautiful
-* When I'm not coding, I'm either watching stand-up comedy or football
+Always learning. Always shipping.
