@@ -3,7 +3,7 @@ Loc: Frontend Engineer • Accra, Ghana
 
 I build fast, accessible, and delightful web experiences that solve real problems.
 
-Currently building **[Builderr](https://www/builderr.site)** — a no-code, section-based portfolio builder that lets designers, freelancers, and creators launch a clean, professional site in minutes without writing any code.
+Currently building **[Builderr](https://www.builderr.site/)** — a no-code, section-based portfolio builder that lets designers, freelancers, and creators launch a clean, professional site in minutes without writing any code.
 
 ### What I bring to the table
 - Deep expertise in **React**, **Next.js**, and **TypeScript** — shipping production-grade, type-safe, performant apps daily
